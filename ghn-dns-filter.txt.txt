@@ -1,0 +1,3 @@
+/vpn\.org$/
+/vpn\.com$/
+/vpn\.net$/
